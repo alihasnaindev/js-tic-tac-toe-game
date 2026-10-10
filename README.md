@@ -23,4 +23,4 @@ An interactive, responsive, and fun **Tic Tac Toe** game built using vanilla **J
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/alihasmaindev/js-tic-tac-toe-game.git](https://github.com/alihasmaindev/js-tic-tac-toe-game.git)
+git clone https://github.com/alihasmaindev/js-tic-tac-toe-game.git
